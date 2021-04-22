@@ -1,0 +1,19 @@
+body{
+    background-image: url(https://www.creativefabrica.com/wp-content/uploads/2020/05/01/Background-with-forest-illustration-Graphics-4005399-1.jpg);
+    background-repeat: repeat-y;
+    background-size: 100%;
+    color: black;
+}
+
+.card{
+    background-color: rgba(91, 247, 60, 0.514);
+}
+
+.btn-primary{
+    background-color: #242424;
+    width: 15%;
+}
+
+.btn-primary:hover{
+    background-color: #0f0f0f;
+}

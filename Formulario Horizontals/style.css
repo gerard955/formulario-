@@ -1,0 +1,21 @@
+.passwd{    
+    position: absolute;
+    margin-left: 270px;
+    margin-bottom: 1px;
+    margin-top: 1px;
+}
+.check{
+    position: absolute;
+    margin-top: 30px;
+    margin-left: 200px;
+}
+.Correo{
+    position: absolute;
+    margin-left: 30px;
+    margin-bottom: 1px;
+    margin-top: 1px;
+}
+.Botoncito{
+    margin-top: 30px;
+    margin-left: 100px;
+}

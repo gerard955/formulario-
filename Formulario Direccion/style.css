@@ -1,0 +1,55 @@
+.Direction{
+    position: absolute;
+    left: 20%;
+    top: 10%;
+    background-color: rgb(255, 255, 255);
+    
+    
+    border-left: 2px solid rgb(65, 160, 155);
+    width: 1000px;
+    height: 700px;
+
+
+}
+
+label{
+    position: relative;
+    left: 20px;
+    top: 0px;
+    font-size: 18px;
+}
+
+
+input{
+    position: relative;
+    left: 50px;
+    width: 1000px;
+    height: 40px;
+    font-size: 14px;
+}
+
+select{
+    position: relative;
+    left: 50px;
+    width: 1000px;
+    height: 40px;
+    font-size: 14px;
+}
+
+.buy{
+    position: relative;
+    top: 20px;
+    left: 54px;
+    background-color: rgb(68, 146, 142);
+    color: white;
+    border: 1px solid #000000;
+    border: 1px solid rgb(65, 160, 155);
+    border-radius: 10%;
+    
+}
+button{
+    position: absolute;
+    width: 100px;
+    height: 50px;
+    
+}
